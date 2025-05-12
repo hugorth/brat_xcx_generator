@@ -4,7 +4,7 @@ Générateur de texte stylisé pour affichage grand format, avec plusieurs modes
 
 ## Aperçu
 
-![Aperçu de l'interface](/brat_xcx_generator/brat.png)
+![Aperçu de l'interface](brat.png)
 
 ## Fonctionnalités
 
